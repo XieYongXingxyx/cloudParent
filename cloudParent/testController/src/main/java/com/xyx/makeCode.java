@@ -15,6 +15,7 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
  */
 public class makeCode {
     public static void main(String[] args) {
+        
         //全局配置
         AutoGenerator autoGenerator = new AutoGenerator();
         // 选择 freemarker 引擎，默认 Velocity
