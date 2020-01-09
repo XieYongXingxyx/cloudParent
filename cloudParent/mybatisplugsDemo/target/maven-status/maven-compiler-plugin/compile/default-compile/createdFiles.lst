@@ -1,0 +1,6 @@
+com\xyx\model\User.class
+com\xyx\mybatisApplication.class
+com\xyx\service\UserService.class
+com\xyx\controller\UserController.class
+com\xyx\mapper\UserDao.class
+com\xyx\service\impl\UserServiceImpl.class

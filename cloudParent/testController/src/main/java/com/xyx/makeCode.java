@@ -15,7 +15,7 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
  */
 public class makeCode {
     public static void main(String[] args) {
-        
+
         //全局配置
         AutoGenerator autoGenerator = new AutoGenerator();
         // 选择 freemarker 引擎，默认 Velocity
@@ -23,7 +23,7 @@ public class makeCode {
         //全局配置
         GlobalConfig globalConfig = new GlobalConfig();
         globalConfig.setAuthor("XYX");
-        globalConfig.setOutputDir("F://testCode");
+        globalConfig.setOutputDir("F:/gitTest/cloudParent/mybatisplugsDemo/src/main/java");
         globalConfig.setFileOverride(false);//文件名相同是否覆盖
         globalConfig.setEnableCache(false);//xml二级缓存
         globalConfig.setBaseResultMap(true);//resultMap
