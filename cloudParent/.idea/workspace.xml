@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ceb85aa-228c-4e11-9cf2-7f16f87cd568" name="Default Changelist" comment="">
-      <change beforePath="D:/gitCode/vvupup-operation/vvupup-operation-admin/src/main/java/com/vvupup/operation/job/StatisticJob.java" beforeDir="false" afterPath="D:/gitCode/vvupup-operation/vvupup-operation-admin/src/main/java/com/vvupup/operation/job/StatisticJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudParent.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurakeStart/eurakeStart.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurakeStart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurakeStart/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurakeStart/src/main/java/com/xyx/eurake/eurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurakeStart/src/main/java/com/xyx/pojo/eurekaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurakeStart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurakeStart/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurakeStart/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurakeStart/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurakeStart/target/classes/com/xyx/eurake/eurekaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testController/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testController/src/main/java/com/xyx/makeCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/testController/src/main/java/com/xyx/makeCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testController/target/classes/META-INF/testController.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testController/target/classes/com/xyx/makeCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/testController/target/classes/com/xyx/makeCode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="580">
               <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -100,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="319">
               <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
@@ -399,7 +383,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578541847399" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578548816195" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -512,16 +496,17 @@
       <workItem from="1574935401469" duration="1441000" />
       <workItem from="1576121432553" duration="9198000" />
       <workItem from="1576199636998" duration="3236000" />
+      <workItem from="1578541787625" duration="908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45110000" />
+    <option name="totallyTimeSpent" value="46018000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40824574" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41471303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -544,6 +529,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3285968" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -558,6 +544,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testController/src/main/java/com/xyx/service/impl.java" />
@@ -731,6 +720,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eurakeStart/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -759,29 +767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
