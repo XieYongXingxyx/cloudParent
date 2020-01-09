@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ceb85aa-228c-4e11-9cf2-7f16f87cd568" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="319">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -174,6 +175,7 @@
         <option value="$PROJECT_DIR$/testController/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisplugsDemo/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml" />
       </list>
     </option>
   </component>
@@ -383,7 +385,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578548816195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578548835646" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -496,15 +498,16 @@
       <workItem from="1574935401469" duration="1441000" />
       <workItem from="1576121432553" duration="9198000" />
       <workItem from="1576199636998" duration="3236000" />
-      <workItem from="1578541787625" duration="908000" />
+      <workItem from="1578541787625" duration="1531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46018000" />
+    <option name="totallyTimeSpent" value="46641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41471303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -769,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatisplugsDemo/src/main/java/com/xyx/mapper/xml/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="319">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
